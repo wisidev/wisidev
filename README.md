@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-<h3>If you want to get in touch with me, click here and let's have a coffee.</h3>
+<h3>For more information, click here and let's have a coffee.</h3>
 <a href="https://www.instagram.com/wisidev/" target="_blank">
 <img align="center" height="84" width="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/coffeescript/coffeescript-original.svg" />
 </a>
