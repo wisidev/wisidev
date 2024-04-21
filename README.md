@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwisidev&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwisidev&s=50&c=66cdaa&bg=00000000&no=4&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
 <br>
 </div>
 
